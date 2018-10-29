@@ -21,7 +21,12 @@ Neen, deze kan je wel delen op sociale sites, maar heeft er zelf geen.
 * images updaten
 * ALT-images
 * meer duidelijkheid 
+* rustiger schermpopbouw
+
 
 ##### Carolinne Vandersteen
 ##### Ingrid Bergs
 ##### An Cattie
+
+
+
