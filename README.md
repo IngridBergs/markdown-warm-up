@@ -3,7 +3,7 @@
 ## Welke website heeft u gevonden?  
 [the worst website ever - Angelfire](http://www.angelfire.com/super/badwebs/)
 ## Wordt het regelmatig bijgewerkt?  
-ja, maandelijks
+ja, inhoudelijk wordt deze bijgewerkt, qwa opmaak is deze duidelijk niet meer up-to-date.
 ## Hoe heb je het gevonden ?  
 GOOGLE
 ## Waarom heeft deze website updates of een remake nodig?  
