@@ -20,7 +20,11 @@ Neen, deze kan je wel delen op sociale sites, maar heeft er zelf geen.
 * duidelijker menu
 * images updaten
 * ALT-images
+* rustiger schermpopbouw
 
 ##### Carolinne Vandersteen
 ##### Ingrid Bergs
 ##### An Cattie
+
+
+
