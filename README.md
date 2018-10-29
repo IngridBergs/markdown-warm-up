@@ -20,7 +20,9 @@ Neen, deze kan je wel delen op sociale sites, maar heeft er zelf geen.
 * duidelijker menu
 * images updaten
 * ALT-images
+* meer duidelijkheid 
 * rustiger schermpopbouw
+
 
 ##### Carolinne Vandersteen
 ##### Ingrid Bergs
